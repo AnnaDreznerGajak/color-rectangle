@@ -1,0 +1,13 @@
+.rectangle{
+    height: 200px;
+    width: 200px;
+    margin: auto auto;
+    border: 3px solid #000;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    text-align: center;
+}
